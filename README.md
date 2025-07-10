@@ -1,5 +1,5 @@
 
-![Game Landing Screenshot](./img/game-landing.png)
+![Game Landing Screenshot](./public/img/game-landing.png)
 
 
 # Game Landing Page
